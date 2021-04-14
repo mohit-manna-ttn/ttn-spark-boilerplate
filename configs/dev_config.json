@@ -1,0 +1,4 @@
+{
+    "uri":"mongodb://mohit:mohit@127.0.0.1:27017",
+    "mapping_collection":"my_collections"
+}
